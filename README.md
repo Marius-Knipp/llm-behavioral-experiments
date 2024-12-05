@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was developed during the Winter Term 2023/24 as part of the Data Science Project course at the University of Tübingen by Benjamin XXX and myself. It explores the fascinating intersection of behavioral economics and artificial intelligence by leveraging Large Language Models (LLMs) to replicate well-established human decision-making patterns.
+This project was developed during the Winter Term 2023/24 as part of the Data Science Project course at the University of Tübingen by Benjamin Herzberger and myself. It explores the fascinating intersection of behavioral economics and artificial intelligence by leveraging Large Language Models (LLMs) to replicate well-established human decision-making patterns.
 
 The revolutionary potential of this approach lies in its efficiency and cost-effectiveness. If LLMs consistently exhibit human-like preferences and biases, such as Loss Aversion, the Decoy Effect, and the Sunk Cost Fallacy, they could become powerful tools for simulating human behavior in behavioral research and market analysis. This would allow researchers to conduct complex experiments quickly and affordably, minimizing the need for large-scale human trials while still generating reliable insights. Additionally, researchers could use LLMs to identify previously unknown biases and phenomena, which could then be validated through more expensive studies involving human participants, paving the way for groundbreaking discoveries in behavioral science.
 
